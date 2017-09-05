@@ -1,0 +1,290 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2017-05-03 09:48+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Angelo Dini <finalangeljp@hotmail.com>, 2016\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/divio/teams/58664/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: cms_plugins.py:20 cms_plugins.py:67 cms_plugins.py:96
+msgid "Google Map"
+msgstr "谷歌地图"
+
+#: cms_plugins.py:32 cms_plugins.py:107
+msgid "Advanced settings"
+msgstr "高级设置"
+
+#: cms_plugins.py:40
+msgid "Control settings"
+msgstr "控制设置"
+
+#: cms_plugins.py:66
+msgid "Marker"
+msgstr "标记"
+
+#: cms_plugins.py:80
+msgid "Info window"
+msgstr "信息窗口"
+
+#: cms_plugins.py:95
+msgid "Route"
+msgstr "路径"
+
+#: models.py:35
+msgid "Default"
+msgstr "默认"
+
+#: models.py:51
+msgid "Template"
+msgstr "模板"
+
+#: models.py:57
+msgid "Map title"
+msgstr "地图名称"
+
+#: models.py:62
+msgid "Width"
+msgstr "宽"
+
+#: models.py:65
+msgid ""
+"Width of the map, including the CSS length units (e.g. \"100%\", \"400px\" "
+"or \"400rem\")."
+msgstr ""
+"地图的宽度，包含CSS长度单位（例如：\"100%\", \"400px\""
+"或者\"400rem\"）。"
+
+#: models.py:68
+msgid "Height"
+msgstr "高"
+
+#: models.py:71
+msgid ""
+"Height of the map, including the CSS length units (e.g. \"400px\" or "
+"\"400rem\")."
+msgstr ""
+"地图的高度，包含CSS长度单位（例如：\"100%\", \"400px\""
+"或者\"400rem\"）。"
+
+#: models.py:74
+msgid "Map styling"
+msgstr "地图样式"
+
+#: models.py:76
+msgid ""
+"Provide a valid (escaped) JSON configuration. See "
+"http://developers.google.com/maps/documentation/javascript/styling"
+msgstr ""
+"提供一个有效的（含有转义字符）JSON配置。查看"
+"http://developers.google.com/maps/documentation/javascript/styling"
+
+#: models.py:80 models.py:212
+msgid "Latitude (lat)"
+msgstr "纬度"
+
+#: models.py:83
+msgid "Default Geographical latitude in degrees (e.g. \"46.947973\")."
+msgstr "默认的地理纬度，以度为单位（例如\"46.947973\"）。"
+
+#: models.py:86 models.py:220
+msgid "Longitude (lng)"
+msgstr "经度"
+
+#: models.py:89
+msgid "Default Geographical longitude in degrees (e.g. \"7.447446\")."
+msgstr "默认的地理经度，以度为单位（例如\"7.447446\"）。"
+
+#: models.py:92
+msgid "Zoom level"
+msgstr "缩放级别"
+
+#: models.py:99
+msgid "Map type"
+msgstr "地图类型"
+
+#: models.py:105
+msgid "Enable zooming"
+msgstr "开启缩放"
+
+#: models.py:107
+msgid "Enabling zooming allows the user to view the map at different scales."
+msgstr "开启缩放，允许用户以不同的缩放级别来查看地图。"
+
+#: models.py:110
+msgid "Enable Street View"
+msgstr "开启街景"
+
+#: models.py:112
+msgid "Street View allows the user to see street-level imagery."
+msgstr "街景允许用户查看街道级别的画面。"
+
+#: models.py:115
+msgid "Enable rotation"
+msgstr "开启转动"
+
+#: models.py:117
+msgid "Allows the user to change the orientation of the map."
+msgstr "允许用户转换地图的视角。"
+
+#: models.py:120
+msgid "Enable map scale"
+msgstr "开启地图刻度"
+
+#: models.py:122
+msgid "Displays a linear distance scale on the map."
+msgstr "在地图上显示一个线性距离刻度。"
+
+#: models.py:125
+msgid "Enable fullscreen mode"
+msgstr "开启全屏模式"
+
+#: models.py:127
+msgid "Allows the user to select a fullscreen view of the map."
+msgstr "允许用户进入地图的全屏视图。"
+
+#: models.py:130
+msgid "Enable cursor key panning"
+msgstr "开启光标选择"
+
+#: models.py:132
+msgid ""
+"Allows the user to move the map using the cursor keys to see new areas."
+msgstr ""
+"允许用户使用光标箭头来查看地图上新区域。"
+
+#: models.py:135
+msgid "Enable double-click zoom"
+msgstr "开启双击缩放"
+
+#: models.py:137
+msgid ""
+"Allows the user to zoom and centre the map with a double-click or double-"
+"tap."
+msgstr ""
+"允许用户通过双击来缩放地图。"
+
+#: models.py:140
+msgid "Enable dragging"
+msgstr "开启拖拽"
+
+#: models.py:142
+msgid "Allows the user to drag the map to see new areas."
+msgstr "允许用户通过拖拽来查看新的地图区域。"
+
+#: models.py:145
+msgid "Enable keyboard shortcuts"
+msgstr "开启键盘快捷键"
+
+#: models.py:147
+msgid "Allows the user to control the map using the keyboard."
+msgstr "允许用户通过快捷键来控制键盘。"
+
+#: models.py:150
+msgid "Enable scroll-wheel zooming"
+msgstr "开启转轮缩放"
+
+#: models.py:152
+msgid "Allows the user to control the zoom level with a scroll-wheel."
+msgstr "允许用户通过鼠标的转轮来缩放地图"
+
+#: models.py:182
+msgid "Width must be a positive integer followed by \"px\" or \"%\"."
+msgstr "宽度必须是一个后面跟随\"px\"或者\"%\"的正整数。"
+
+#: models.py:186
+msgid "Height must be a positive integer followed by \"px\"."
+msgstr "高度必须是一个后面跟随\"px\"或者\"%\"的正整数。"
+
+#: models.py:192
+msgid "Map styling has to be valid JSON."
+msgstr "地图样式必须是JSON格式的。"
+
+#: models.py:201 models.py:267
+msgid "Title"
+msgstr "标题"
+
+#: models.py:206
+msgid "Full address"
+msgstr "完整的地址"
+
+#: models.py:209
+msgid "Note: Latitude and longitude can be used to fine-tune the location."
+msgstr "注意：可以使用经纬度来微调位置。"
+
+#: models.py:217
+msgid "Geographical latitude in degrees (e.g. \"46.947973\")."
+msgstr "以度为单位的地理纬度（例如\"46.947973\"）。"
+
+#: models.py:225
+msgid "Geographical longitude in degrees (e.g. \"7.447446\")."
+msgstr "以度为单位的地理经度（例如\"7.447446\"）。"
+
+#: models.py:228
+msgid "Icon"
+msgstr "图标"
+
+#: models.py:232
+msgid ""
+"A marker icon identifies a location on a map. By default, it uses a standard"
+" image from Google."
+msgstr ""
+"用来展示位置的按钮。默认使用Goolge提供的一个基本图片。"
+
+#: models.py:237
+msgid "Show window"
+msgstr "显示窗口"
+
+#: models.py:239
+msgid "Display the info window when the map loads."
+msgstr "当地图载入后显示信息窗口。"
+
+#: models.py:242
+msgid "Info window content"
+msgstr "信息窗口内容"
+
+#: models.py:244
+msgid "Will be displayed in the info window attached to the marker."
+msgstr "将显示生成器附属的信息窗口"
+
+#: models.py:272
+msgid "Starting address"
+msgstr "起始地址"
+
+#: models.py:275
+msgid "Will be determined by user's location (if possible) if left blank."
+msgstr "如果留空的话将被填充为用户的当前位置。"
+
+#: models.py:278
+msgid "Destination address"
+msgstr "目的地址"
+
+#: models.py:282
+msgid "Travel mode"
+msgstr "出行方式"
+
+#custom
+#: models.py:195
+msgid "google map"
+msgstr "谷歌地图"
+
+#custom
+#: models.py:265
+msgid "google map maker"
+msgstr "谷歌地图生成器"
+
+#custom
+#: models.py:309
+msgid "google map route"
+msgstr "谷歌地图路由"

@@ -1,0 +1,16 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "thumbnaildimensions"
+msgstr "缩略图裁剪"
+
+msgid "thumbnail"
+msgstr "缩略图"
+
+msgid "source"
+msgstr "源"

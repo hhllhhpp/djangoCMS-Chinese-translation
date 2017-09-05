@@ -1,0 +1,146 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-09-08 10:11+0200\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: Angelo Dini <finalangeljp@hotmail.com>, 2016\n"
+"Language-Team: Chinese (China) (https://www.transifex.com/divio/teams/58664/zh_CN/)\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+#: cms_plugins.py:12 cms_plugins.py:51 cms_plugins.py:78
+msgid "Video player"
+msgstr "视频播放器"
+
+#: cms_plugins.py:24
+msgid "Embed video"
+msgstr "内嵌视频"
+
+#: cms_plugins.py:30 cms_plugins.py:62 cms_plugins.py:90
+msgid "Advanced settings"
+msgstr "高级设置"
+
+#: cms_plugins.py:50 models.py:102
+msgid "Source"
+msgstr "源"
+
+#: cms_plugins.py:77
+msgid "Track"
+msgstr "轨道"
+
+#: models.py:31
+msgid "Default"
+msgstr "默认"
+
+#: models.py:47
+msgid "Template"
+msgstr "模板"
+
+#: models.py:53 models.py:177
+msgid "Label"
+msgstr "标签"
+
+#: models.py:58
+msgid "Embed link"
+msgstr "嵌入链接"
+
+#: models.py:61
+msgid ""
+"Use this field to embed videos from external services such as YouTube, Vimeo"
+" or others. Leave it blank to upload video files by adding nested \"Source\""
+" plugins."
+msgstr ""
+"使用这个字段来从外部服务器嵌入视频，例如YouTube, Vimeo等等。"
+"这个字段如果留空的话，可以从嵌套的\"源\""
+"插件来上传视频。"
+
+#: models.py:66
+msgid "Poster"
+msgstr "封面"
+
+#: models.py:73 models.py:118 models.py:182
+msgid "Attributes"
+msgstr "属性"
+
+#: models.py:109
+msgid "Title"
+msgstr "标题"
+
+#: models.py:114
+msgid "Description"
+msgstr "描述"
+
+#: models.py:131
+#, python-brace-format
+msgid "Incorrect file type: {extension}."
+msgstr "错误的文件类型：{extension}。"
+
+#: models.py:138
+msgid "<file is missing>"
+msgstr "<文件不存在>"
+
+#: models.py:152
+msgid "Subtitles"
+msgstr "子标题"
+
+#: models.py:153
+msgid "Captions"
+msgstr "字幕"
+
+#: models.py:154
+msgid "Descriptions"
+msgstr "描述"
+
+#: models.py:155
+msgid "Chapters"
+msgstr "章"
+
+#: models.py:159
+msgid "Kind"
+msgstr "类型"
+
+#: models.py:164
+msgid "Source file"
+msgstr "源文件"
+
+#: models.py:171
+msgid "Source language"
+msgstr "语言"
+
+#: models.py:174
+msgid "Examples: \"en\" or \"de\" etc."
+msgstr "例如：\"英语\"或者\"德语\"等等。"
+
+#: templates/djangocms_video/default/video_player.html:18
+msgid "Your browser doesn't support this video format."
+msgstr "你的浏览器不支持这种视频格式。"
+
+#custom
+#: models.py:97
+msgid "video player"
+msgstr "视频播放器"
+
+#custom
+#: models.py:151
+msgid "video source"
+msgstr "视频源"
+
+#custom
+#: models.py:202
+msgid "video track"
+msgstr "视频轨道"
+#~ msgid "movie file"
+#~ msgstr "电影文件"
+
+#~ msgid "use .flv file or h264 encoded video file"
+#~ msgstr "使用.flv或者h264编码的视频文件"

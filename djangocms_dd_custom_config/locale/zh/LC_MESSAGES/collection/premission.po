@@ -1,0 +1,454 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language: zh_CN\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+
+msgid "Can add log entry"
+msgstr "能添加日志记录"
+
+msgid "Can change log entry"
+msgstr "能修改日志记录"
+
+msgid "Can delete log entry"
+msgstr "能删除日志记录"
+
+msgid "Can add group"
+msgstr "能添加组"
+
+msgid "Can change group"
+msgstr "能修改组"
+
+msgid "Can delete group"
+msgstr "能删除组"
+
+msgid "Can add alias plugin model"
+msgstr "能添加别名（插件）"
+
+msgid "Can change alias plugin model"
+msgstr "能修改别名（插件）"
+
+msgid "Can delete alias plugin model"
+msgstr "能删除别名（插件）"
+
+msgid "Can add cms plugin"
+msgstr "能添加cms插件"
+
+msgid "Can change cms plugin"
+msgstr "能修改cms插件"
+
+msgid "Can delete cms plugin"
+msgstr "能删除cms插件"
+
+msgid "Can add Page global permission"
+msgstr "能添加页面全局权限"
+
+msgid "Can change Page global permission"
+msgstr "能修改页面全局权限"
+
+msgid "Can delete Page global permission"
+msgstr "能删除页面全局权限"
+
+msgid "Can add page"
+msgstr "能添加页面"
+
+msgid "Can change page"
+msgstr "能修改页面"
+
+msgid "Can delete page"
+msgstr "能删除页面"
+
+msgid "Can edit static placeholders"
+msgstr "能编辑静态占位符"
+
+msgid "Can publish page"
+msgstr "能发布页面"
+
+msgid "Can view page"
+msgstr "能查看页面"
+
+msgid "Can add Page permission"
+msgstr "能添加页面权限"
+
+msgid "Can change Page permission"
+msgstr "能修改页面权限"
+
+msgid "Can delete Page permission"
+msgstr "能删除页面权限"
+
+msgid "Can add User (page)"
+msgstr "能添加用户（页面）"
+
+msgid "Can change User (page)"
+msgstr "能修改用户（页面）"
+
+msgid "Can delete User (page)"
+msgstr "能删除用户（页面）"
+
+msgid "Can add User group (page)"
+msgstr "能添加用户组（页面）"
+
+msgid "Can change User group (page)"
+msgstr "能修改用户组（页面）"
+
+msgid "Can delete User group (page)"
+msgstr "能删除用户组（页面）"
+
+msgid "Can add placeholder"
+msgstr "能添加占位符"
+
+msgid "Can change placeholder"
+msgstr "能修改占位符"
+
+msgid "Can delete placeholder"
+msgstr "能删除占位符"
+
+msgid "Can use Structure mode"
+msgstr "能使用结构模式"
+
+msgid "Can add placeholder reference"
+msgstr "能添加占位符引用"
+
+msgid "Can change placeholder reference"
+msgstr "能修改占位符引用"
+
+msgid "Can delete placeholder reference"
+msgstr "能删除占位符引用"
+
+msgid "Can add static placeholder"
+msgstr "能添加静态占位符"
+
+msgid "Can change static placeholder"
+msgstr "能修改静态占位符"
+
+msgid "Can delete static placeholder"
+msgstr "能删除静态占位符"
+
+msgid "Can add title"
+msgstr "能添加标题"
+
+msgid "Can change title"
+msgstr "能修改标题"
+
+msgid "Can delete title"
+msgstr "能删除标题"
+
+msgid "Can add urlconf revision"
+msgstr "能添加urlconf校验"
+
+msgid "Can change urlconf revision"
+msgstr "能修改urlconf校验"
+
+msgid "Can delete urlconf revision"
+msgstr "能删除urlconf校验"
+
+msgid "Can add user setting"
+msgstr "能添加用户配置"
+
+msgid "Can change user setting"
+msgstr "能修改用户配置"
+
+msgid "Can delete user setting"
+msgstr "能删除用户配置"
+
+msgid "Can add filer file"
+msgstr "能添加文件管理器"
+
+msgid "Can change filer file"
+msgstr "能修改文件管理器"
+
+msgid "Can delete filer file"
+msgstr "能删除文件管理器"
+
+msgid "Can add filer folder"
+msgstr "能添加文件夹管理器"
+
+msgid "Can change filer folder"
+msgstr "能修改文件夹管理器"
+
+msgid "Can delete filer folder"
+msgstr "能删除文件夹管理器"
+
+msgid "Can add filer image"
+msgstr "能添加图片管理器"
+
+msgid "Can change filer image"
+msgstr "能修改图片管理器"
+
+msgid "Can delete filer image"
+msgstr "能删除图片管理器"
+
+msgid "Can add content type"
+msgstr "能添加内容类型"
+
+msgid "Can change content type"
+msgstr "能修改内容类型"
+
+msgid "Can delete content type"
+msgstr "能删除内容类型"
+
+msgid "Can add Column"
+msgstr "能添加列"
+
+msgid "Can change Column"
+msgstr "能修改列"
+
+msgid "Can delete Column"
+msgstr "能删除列"
+
+msgid "Can add Multi Columns"
+msgstr "能添加多列"
+
+msgid "Can change Multi Columns"
+msgstr "能修改多列"
+
+msgid "Can delete Multi Columns"
+msgstr "能删除多列"
+
+msgid "Can add column"
+msgstr "能添加列"
+
+msgid "Can change column"
+msgstr "能修改列"
+
+msgid "Can delete column"
+msgstr "能删除列"
+
+msgid "Can add multi columns"
+msgstr "能添加多列"
+
+msgid "Can change multi columns"
+msgstr "能修改多列"
+
+msgid "Can delete multi columns"
+msgstr "能删除多列"
+
+msgid "Can add google map"
+msgstr "能添加谷歌地图"
+
+msgid "Can change google map"
+msgstr "能修改谷歌地图"
+
+msgid "Can delete google map"
+msgstr "能删除谷歌地图"
+
+msgid "Can add google map marker"
+msgstr "能添加谷歌地图生成器"
+
+msgid "Can change google map marker"
+msgstr "能修改谷歌地图生成器"
+
+msgid "Can delete google map marker"
+msgstr "能删除谷歌地图生成器"
+
+msgid "Can add google map route"
+msgstr "能添加谷歌地图路径"
+
+msgid "Can change google map route"
+msgstr "能修改谷歌地图路径"
+
+msgid "Can delete google map route"
+msgstr "能删除谷歌地图路径"
+
+msgid "Can add link"
+msgstr "能添加链接"
+
+msgid "Can change link"
+msgstr "能修改链接"
+
+msgid "Can delete link"
+msgstr "能删除链接"
+
+msgid "Can add Snippet"
+msgstr "能添加代码片段"
+
+msgid "Can change Snippet"
+msgstr "能修改代码片段"
+
+msgid "Can delete Snippet"
+msgstr "能删除代码片段"
+
+msgid "Can add style"
+msgstr "能添加样式"
+
+msgid "Can change style"
+msgstr "能修改样式"
+
+msgid "Can delete style"
+msgstr "能删除样式"
+
+msgid "Can add text"
+msgstr "能添加文本"
+
+msgid "Can change text"
+msgstr "能修改文本"
+
+msgid "Can delete text"
+msgstr "能删除文本"
+
+msgid "Can add video player"
+msgstr "能添加视频播放器"
+
+msgid "Can change video player"
+msgstr "能修改视频播放器"
+
+msgid "Can delete video player"
+msgstr "能删除视频播放器"
+
+msgid "Can add video source"
+msgstr "能添加视频源"
+
+msgid "Can change video source"
+msgstr "能修改视频源"
+
+msgid "Can delete video source"
+msgstr "能删除视频源"
+
+msgid "Can add video track"
+msgstr "能添加视频轨道"
+
+msgid "Can change video track"
+msgstr "能修改视频轨道"
+
+msgid "Can delete video track"
+msgstr "能删除视频轨道"
+
+msgid "Can add source"
+msgstr "能添加源"
+
+msgid "Can change source"
+msgstr "能修改源"
+
+msgid "Can delete source"
+msgstr "能删除源"
+
+msgid "Can add thumbnail"
+msgstr "能添加缩略图"
+
+msgid "Can change thumbnail"
+msgstr "能修改缩略图"
+
+msgid "Can delete thumbnail"
+msgstr "能删除缩略图"
+
+msgid "Can add thumbnail dimensions"
+msgstr "能添加缩略图裁剪"
+
+msgid "Can change thumbnail dimensions"
+msgstr "能修改缩略图裁剪"
+
+msgid "Can delete thumbnail dimensions"
+msgstr "能删除缩略图裁剪"
+
+msgid "Can add clipboard"
+msgstr "能添加剪贴板"
+
+msgid "Can change clipboard"
+msgstr "能修改剪贴板"
+
+msgid "Can delete clipboard"
+msgstr "能删除剪贴板"
+
+msgid "Can add clipboard item"
+msgstr "能添加剪贴板项目"
+
+msgid "Can change clipboard item"
+msgstr "能修改剪贴板项目"
+
+msgid "Can delete clipboard item"
+msgstr "能删除剪贴板项目"
+
+msgid "Can add file"
+msgstr "能添加文件"
+
+msgid "Can change file"
+msgstr "能修改文件"
+
+msgid "Can delete file"
+msgstr "能删除文件"
+
+msgid "Can add Folder"
+msgstr "能添加文件夹"
+
+msgid "Can use directory listing"
+msgstr "能使用目录列表"
+
+msgid "Can change Folder"
+msgstr "能修改文件夹"
+
+msgid "Can delete Folder"
+msgstr "能删除文件夹"
+
+msgid "Can add folder permission"
+msgstr "能添加文件夹权限"
+
+msgid "Can change folder permission"
+msgstr "能修改文件夹权限"
+
+msgid "Can delete folder permission"
+msgstr "能删除文件夹权限"
+
+msgid "Can add image"
+msgstr "能添加图片"
+
+msgid "Can change image"
+msgstr "能修改图片"
+
+msgid "Can delete image"
+msgstr "能删除文件"
+
+msgid "Can add thumbnail option"
+msgstr "能添加缩略图选项"
+
+msgid "Can change thumbnail option"
+msgstr "能修改缩略图选项"
+
+msgid "Can delete thumbnail option"
+msgstr "能删除缩略图选项"
+
+msgid "Can add cache key"
+msgstr "能添加缓存关键字"
+
+msgid "Can change cache key"
+msgstr "能修改缓存关键字"
+
+msgid "Can delete cache key"
+msgstr "能删除缓存关键字"
+
+msgid "Can add session"
+msgstr "能添加会话"
+
+msgid "Can change session"
+msgstr "能修改会话"
+
+msgid "Can delete session"
+msgstr "能删除会话"
+
+msgid "Can add site"
+msgstr "能添加站点"
+
+msgid "Can change site"
+msgstr "能修改站点"
+
+msgid "Can delete site"
+msgstr "能删除站点"
+
+msgid "Can add permission"
+msgstr "能添加权限"
+
+msgid "Can change permission"
+msgstr "能修改权限"
+
+msgid "Can delete permission"
+msgstr "能删除权限"
+
+msgid "Can add user"
+msgstr "能添加用户"
+
+msgid "Can change user"
+msgstr "能修改用户"
+
+msgid "Can delete user"
+msgstr "能删除用户"
